@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Alessandro Lin</title>
+        <link rel="stylesheet" href="styles.css">  
+    </head>
+    <body>
+        <main>
+            <header>
+                Alessandro Lin
+            </header>
+            <section>
+                <h2>
+                    About me
+                </h2>
+                <p>
+                I am currently studying at UCL (University College of London). I am interested in pure math and
+                in coding. I am sharing my notes taken from Books and from Lectures. Also my coding solving Euler Project.
+                You can see my <a>CV</a> here.<br>
+                </p>
+            </section>
+            <section>
+                <a class="index" href="Website_Ale.html">Home page</a>
+                <a class="index" href="Website_PureMath.html">Pure Math</a>
+                <a class="index" href="Website_Coding.html">Coding</a>
+            <section>
+
+
+
+
+
+            <h2>Coding</h2>
+            <h3>Latex</h3>
+            Latex is a language used mostly for math article and documents. Most of my notes are written with latex!
+            <ul>
+                <li><a href=""> Cheat sheet</a></li>
+            </ul>
+ 
+
+
+
+
+            <h3>Python-Euler Project</h3>
+            <ul class="ul_column">
+                <li>1</li>
+                <li>2</li>
+                <li>3</li>
+                <li>4</li>
+                <li>5</li>
+                <li>6</li>
+                <li>7</li>
+                <li>8</li>
+                <li>9</li>
+                <li>10</li>
+                <li>11</li>
+                <li>12</li>
+                <li>13</li>
+                <li>14</li>
+                <li>15</li>
+                <li>16</li>
+                <li>17</li>
+                <li>18</li>
+                <li>19</li>
+                <li>20</li>
+                <li>21</li>
+                <li>22</li>
+                <li>23</li>
+                <li><a href="">24</a></li>
+                <li>25</li>
+                <li>26</li>
+                <li>27</li>
+                <li>28</li>
+                <li>29</li>
+                <li>30</li>
+                <li>31</li>
+                <li>14</li>
+                <li>15</li>
+                <li>16</li>
+                <li>17</li>
+                <li>18</li>
+                <li>19</li>
+                <li>20</li>
+                <li>21</li>
+                <li>22</li>
+                <li>23</li>
+                <li>24</li>
+                <li>25</li>
+                <li>26</li>
+                <li>27</li>
+                <li>28</li>
+                <li>29</li>
+                <li>30</li>
+                <li>31</li>
+                <li>14</li>
+                <li>15</li>
+                <li>16</li>
+                <li>17</li>
+                <li>18</li>
+                <li>19</li>
+                <li>20</li>
+                <li>21</li>
+                <li>22</li>
+                <li>23</li>
+                <li>24</li>
+                <li>25</li>
+                <li>26</li>
+                <li>27</li>
+                <li>28</li>
+                <li>29</li>
+                <li>30</li>
+                <li>31</li>
+            </ul>
+
+
+
+            <h3>How to make a site</h3>
+            <ul>
+                <li>
+                    <a href="Website Notes.md">HTML and CSS</a>
+                </li>
+            </ul>
+
+
+
+
+        </main>
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer>
+    <p style="text-align:right"><a href="">Back to home</a> Last update: 01/12/2022  </p>
+</footer>
+
+
+</html>
+
+
+
+
+
+
