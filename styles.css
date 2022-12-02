@@ -9,11 +9,22 @@ header{
     margin-bottom: 0.5em;
 }
 
+a.index{
+    margin-right: 5px;
+    padding: 5px;
+}
+
+a.project{
+    margin-right:auto
+}
+
 h1, h2, h3 {
     display: block;
-    font-weight: 100;
+    font-weight:100;
     margin-bottom: 15px;
+
 }
+
 
 
 section{
@@ -26,7 +37,7 @@ body {
     display: block;
     padding: 0;
     margin: 0;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: sans-serif;
 }
 
 
@@ -60,21 +71,32 @@ a:hover{
 
 
 
+pages{
+    font-size: large;
+}
+
+
 
 code{
     font-family: 'Courier New', Courier, monospace;
 }
 
 
-profile{
-    width: 10px;
-}
 
 
-list_row{
-    list-style-type: disc;
+
+
+ul {
+    list-style-type: none;
+   }
+
+
+.ul_column{
+    height: 100px;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: right;
 }
 
 
@@ -82,17 +104,9 @@ list_row{
 
 
 
-.div_row{
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-}
 
-.div_row a {
-    display: inline-block;
-    flex-basis: 20%;
-    text-align: center;
-}
+
+
 
 
 
@@ -100,3 +114,18 @@ div{
     display: block;
 
 }
+
+.div_row{
+    display: flex;
+    justify-content: flex-end;
+    align-items: right;
+}
+
+
+
+.div_row a {
+    display: inline-block;
+    flex-basis: 20%;
+    text-align: center;
+}
+
