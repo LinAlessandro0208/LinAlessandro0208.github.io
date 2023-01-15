@@ -1,0 +1,131 @@
+
+header{
+    font-weight: normal;
+    font-size: 2.5em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0.5em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+a.index{
+    margin-right: 5px;
+    padding: 5px;
+}
+
+a.project{
+    margin-right:auto
+}
+
+h1, h2, h3 {
+    display: block;
+    font-weight:100;
+    margin-bottom: 15px;
+
+}
+
+
+
+section{
+    display: block;
+}
+
+
+body {
+    background: rgb(253,253,253);
+    display: block;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+main{
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+
+
+p {
+    margin-top: 0.5mm;
+    display: block; 
+}
+
+
+
+
+a{
+    color: #06c;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+
+
+pages{
+    font-size: large;
+}
+
+
+
+code{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+
+
+ul {
+    list-style-type: none;
+   }
+
+
+.ul_column{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+div{
+    display: block;
+
+}
+
+.div_row{
+    display: flex;
+    justify-content: flex-end;
+    align-items: right;
+}
+
+
+
+.div_row a {
+    display: inline-block;
+    flex-basis: 20%;
+    text-align: center;
+}
+
